@@ -51,4 +51,4 @@ An interactive Power BI dashboard that analyzes sales performance, customer beha
 
 ## Author
 **Najlaa Achouhal**  
-Bioinformatics Student 
+Bioinformatics student 
